@@ -18,12 +18,12 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tom's Cogitation Station # the main title
+title: "Tom's Cogitation Station" # the main title
 
-tagline: The final stop for my train of thought # it will display as the sub-title
+tagline: "The final stop for my train of thought" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  The final stop for my train of thought
+  "The final stop for my train of thought"
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://tomgehrke.github.io"
